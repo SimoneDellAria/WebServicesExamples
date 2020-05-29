@@ -42,23 +42,6 @@
 			<artifactId>jersey-core</artifactId>
 			<version>1.19.4</version>
 		</dependency>
-		
-
-		<!-- https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-mapper-asl -->
-		<!-- IF NOT IMPORTED, JBOSS THROWS A CLASS NOT FOUND EXCEPTION ON THIS MAPPER...EVEN IF I'M NOT USING IT -->
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-mapper-asl</artifactId>
-			<version>1.9.5</version>
-		</dependency>
-
-
-		<!-- https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-core-asl -->
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-core-asl</artifactId>
-			<version>1.9.5</version>
-		</dependency>
 
 	</dependencies>
 
